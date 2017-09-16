@@ -299,4 +299,4 @@ __pycache__/
 *.xsd.cs
 
 # OpenCover UI analysis results
-OpenCover/z
+OpenCover/
